@@ -4,6 +4,6 @@
   "documentation": "https://www.home-assistant.io/components/broadlink",
   "requirements": ["broadlink==0.14.0"],
   "dependencies": [],
-  "codeowners": ["@danielhiversen, modified by @af950833"]
+  "codeowners": ["@danielhiversen, modified by @af950833 and @nirkons"],
   "version": "0.8.0"
 }
